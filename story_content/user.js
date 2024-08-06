@@ -8,7 +8,7 @@ var getVar = player.GetVar;
 window.Script2 = function()
 {
   /*####################################*/
-player.SetVar("Client", "ُHNI");
+player.SetVar("Client", "HNI");
 /*####################################*/
 
 var firebaseConfig = {
